@@ -1,4 +1,4 @@
-# Analise de Sentimento do Mercado de Ações Brasileiro
+# Analise de Sentimento em Tempo Real sobre o Mercado de Ações Brasileiro
 
 - 🇧🇷 PT/BR:  
 
